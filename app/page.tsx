@@ -6,7 +6,7 @@ export default async function Home() {
     <div>
       <main>
         <h1>
-          Hello
+          Hello to RAG
         </h1>
       </main>
     </div>
